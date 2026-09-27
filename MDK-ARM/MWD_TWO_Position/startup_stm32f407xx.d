@@ -1,0 +1,1 @@
+mwd_two_position\startup_stm32f407xx.o: startup_stm32f407xx.s

@@ -1,0 +1,33 @@
+mwd_two_position\stm32f4xx_hal_msp.o: ../Core/Src/stm32f4xx_hal_msp.c
+mwd_two_position\stm32f4xx_hal_msp.o: ../Core/Inc/main.h
+mwd_two_position\stm32f4xx_hal_msp.o: ../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal.h
+mwd_two_position\stm32f4xx_hal_msp.o: ../Core/Inc/stm32f4xx_hal_conf.h
+mwd_two_position\stm32f4xx_hal_msp.o: ../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_rcc.h
+mwd_two_position\stm32f4xx_hal_msp.o: ../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_def.h
+mwd_two_position\stm32f4xx_hal_msp.o: ../Drivers/CMSIS/Device/ST/STM32F4xx/Include/stm32f4xx.h
+mwd_two_position\stm32f4xx_hal_msp.o: ../Drivers/CMSIS/Device/ST/STM32F4xx/Include/stm32f407xx.h
+mwd_two_position\stm32f4xx_hal_msp.o: ../Drivers/CMSIS/Include/core_cm4.h
+mwd_two_position\stm32f4xx_hal_msp.o: E:\keil 5MDK\ARM\ARMCC\Bin\..\include\stdint.h
+mwd_two_position\stm32f4xx_hal_msp.o: ../Drivers/CMSIS/Include/cmsis_version.h
+mwd_two_position\stm32f4xx_hal_msp.o: ../Drivers/CMSIS/Include/cmsis_compiler.h
+mwd_two_position\stm32f4xx_hal_msp.o: ../Drivers/CMSIS/Include/cmsis_armcc.h
+mwd_two_position\stm32f4xx_hal_msp.o: ../Drivers/CMSIS/Include/mpu_armv7.h
+mwd_two_position\stm32f4xx_hal_msp.o: ../Drivers/CMSIS/Device/ST/STM32F4xx/Include/system_stm32f4xx.h
+mwd_two_position\stm32f4xx_hal_msp.o: ../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal.h
+mwd_two_position\stm32f4xx_hal_msp.o: ../Drivers/STM32F4xx_HAL_Driver/Inc/Legacy/stm32_hal_legacy.h
+mwd_two_position\stm32f4xx_hal_msp.o: E:\keil 5MDK\ARM\ARMCC\Bin\..\include\stddef.h
+mwd_two_position\stm32f4xx_hal_msp.o: ../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_rcc_ex.h
+mwd_two_position\stm32f4xx_hal_msp.o: ../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_gpio.h
+mwd_two_position\stm32f4xx_hal_msp.o: ../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_gpio_ex.h
+mwd_two_position\stm32f4xx_hal_msp.o: ../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_exti.h
+mwd_two_position\stm32f4xx_hal_msp.o: ../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_dma.h
+mwd_two_position\stm32f4xx_hal_msp.o: ../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_dma_ex.h
+mwd_two_position\stm32f4xx_hal_msp.o: ../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_cortex.h
+mwd_two_position\stm32f4xx_hal_msp.o: ../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_flash.h
+mwd_two_position\stm32f4xx_hal_msp.o: ../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_flash_ex.h
+mwd_two_position\stm32f4xx_hal_msp.o: ../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_flash_ramfunc.h
+mwd_two_position\stm32f4xx_hal_msp.o: ../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_pwr.h
+mwd_two_position\stm32f4xx_hal_msp.o: ../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_pwr_ex.h
+mwd_two_position\stm32f4xx_hal_msp.o: ../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_tim.h
+mwd_two_position\stm32f4xx_hal_msp.o: ../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_tim_ex.h
+mwd_two_position\stm32f4xx_hal_msp.o: ../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_uart.h
